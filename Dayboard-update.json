@@ -1,8 +1,8 @@
 {
-  "versionName": "0.2.3",
-  "versionCode": 7,
-  "size": 2223922,
-  "sha256": "2fb02dcac241365ee377df4b3dfbb679c3b83302fb232a47750e2ce800046030",
-  "downloadUrl": "https://github.com/dayboard00/Dayboard-releases/releases/download/v0.2.3-test/Dayboard-0.2.3-test.apk",
-  "notes": "공유달력 전용 메뉴·작성자 표시·공유 근무 입력·뒤로가기 및 체크 간격 개선"
+  "versionName": "0.2.4",
+  "versionCode": 8,
+  "size": 2228018,
+  "sha256": "1562c520aa9086bab41b7180d072a33b7c4f3d115e962870b289398b0aa4f20d",
+  "downloadUrl": "https://github.com/dayboard00/Dayboard-releases/releases/download/v0.2.4-test/Dayboard-0.2.4-test.apk",
+  "notes": "테마 적용 누락 수정, 공유달력 날짜 상세·표시 설정·편집 버튼 배치 개선"
 }
