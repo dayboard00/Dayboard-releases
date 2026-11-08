@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.2.1",
-    "versionCode":  5,
-    "size":  275786,
-    "sha256":  "8c32ee096acd02faf6eb6b78a9e48892acb08317145ae5e5e80b670417ecee88",
-    "downloadUrl":  "https://github.com/dayboard00/Dayboard-releases/releases/download/v0.2.1-test/Dayboard-0.2.1-test.apk",
-    "notes":  "Dayboard 테스트 업데이트"
+  "versionName": "0.2.2",
+  "versionCode": 6,
+  "size": 2219826,
+  "sha256": "77c09d4d4ffb5db49f547d9bf999fc76f212e28a5938fdd370fc9640973df48e",
+  "downloadUrl": "https://github.com/dayboard00/Dayboard-releases/releases/download/v0.2.2-test/Dayboard-0.2.2-test.apk",
+  "notes": "Google 로그인, 일정·근무·체크리스트 공유, 테마·메뉴 전환 개선"
 }
