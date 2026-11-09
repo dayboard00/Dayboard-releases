@@ -1,8 +1,8 @@
 {
   "versionName": "0.2.5",
-  "versionCode": 9,
+  "versionCode": 10,
   "size": 2228018,
-  "sha256": "39c6fef6e98b383d6b451598a9f8a8b9df4920ae245d49f6fc39a20bb5f9216b",
+  "sha256": "7cc12a286945b6a48a4bf5bc3b9ab61e75c5d1be0c9480f13f85aab656443f56",
   "downloadUrl": "https://github.com/dayboard00/Dayboard-releases/releases/download/v0.2.5-test/Dayboard-0.2.5-test.apk",
-  "notes": "공유달력 통합, 하단·체크리스트 테마 및 화면 배치 개선, 시작 화면 추가"
+  "notes": "공유 일정 수정 정보와 오늘의 보드 일정 표시 개선"
 }
