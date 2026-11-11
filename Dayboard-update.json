@@ -1,8 +1,8 @@
 {
-  "versionName": "0.2.6",
-  "versionCode": 11,
+  "versionName": "0.2.7",
+  "versionCode": 12,
   "size": 2236210,
-  "sha256": "a30974be4d4d9059456db7f589bd2780660deaa1c08141577f040d70332a9cb6",
-  "downloadUrl": "https://github.com/dayboard00/Dayboard-releases/releases/download/v0.2.6-test/Dayboard-0.2.6-test.apk",
+  "sha256": "a0f309f9a214e01bcbefbc395460f0ba252007643da71d60d342d35932db6700",
+  "downloadUrl": "https://github.com/dayboard00/Dayboard-releases/releases/download/v0.2.7-test/Dayboard-0.2.7-test.apk",
   "notes": "Dayboard 테스트 업데이트"
 }
