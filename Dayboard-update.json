@@ -1,8 +1,8 @@
 {
-  "versionName": "0.2.7",
-  "versionCode": 12,
+  "versionName": "0.2.8",
+  "versionCode": 13,
   "size": 2236210,
-  "sha256": "a0f309f9a214e01bcbefbc395460f0ba252007643da71d60d342d35932db6700",
-  "downloadUrl": "https://github.com/dayboard00/Dayboard-releases/releases/download/v0.2.7-test/Dayboard-0.2.7-test.apk",
-  "notes": "Dayboard 테스트 업데이트"
+  "sha256": "0b5e00c7d94bdc5025664b1947321d36c7efb246c8026aa04facd15c57f2d596",
+  "downloadUrl": "https://github.com/dayboard00/Dayboard-releases/releases/download/v0.2.8-test/Dayboard-0.2.8-test.apk",
+  "notes": "업데이트 확인 개선, 곡률 보완, 기본 체크리스트 정리, 파스텔 웨이브 속도 조정"
 }
