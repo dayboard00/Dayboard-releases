@@ -1,8 +1,8 @@
 {
-  "versionName": "0.2.10",
-  "versionCode": 15,
+  "versionName": "0.2.11",
+  "versionCode": 16,
   "size": 2244402,
-  "sha256": "f9a6132c8215a7bac661a71086469ca724631ee48d93d3da510b107738e53cf5",
-  "downloadUrl": "https://github.com/dayboard00/Dayboard-releases/releases/download/v0.2.10-test/Dayboard-0.2.10-test.apk",
-  "notes": "공유 달력별 외부 캘린더 공유, 관리 화면 간소화, 연속 곡률 보완"
+  "sha256": "bdf301953bef90e04a7d58c52ee027e943e579f63b52f8a9e305f0414a2d920e",
+  "downloadUrl": "https://github.com/dayboard00/Dayboard-releases/releases/download/v0.2.11-test/Dayboard-0.2.11-test.apk",
+  "notes": "공유 항목 메뉴·관리 수정, 체크리스트 길게 눌러 순서 이동"
 }
