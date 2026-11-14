@@ -1,8 +1,8 @@
 {
-  "versionName": "0.2.11",
-  "versionCode": 16,
+  "versionName": "0.2.12",
+  "versionCode": 17,
   "size": 2244402,
-  "sha256": "bdf301953bef90e04a7d58c52ee027e943e579f63b52f8a9e305f0414a2d920e",
-  "downloadUrl": "https://github.com/dayboard00/Dayboard-releases/releases/download/v0.2.11-test/Dayboard-0.2.11-test.apk",
-  "notes": "공유 항목 메뉴·관리 수정, 체크리스트 길게 눌러 순서 이동"
+  "sha256": "c1437213e69666a1a5cd9e52aed85e420d564d5d881684f8980665143943b239",
+  "downloadUrl": "https://github.com/dayboard00/Dayboard-releases/releases/download/v0.2.12-test/Dayboard-0.2.12-test.apk",
+  "notes": "근무 이름 한 줄 자동 축소, 공유 항목 메뉴 수정, 캘린더 연동 대상 표시"
 }
