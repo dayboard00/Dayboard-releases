@@ -1,8 +1,8 @@
 {
-  "versionName": "0.2.9",
-  "versionCode": 14,
-  "size": 2240306,
-  "sha256": "80ca544c66025d6564fa80c4873552e7793944b7d592300a07ed99cd2672fed1",
-  "downloadUrl": "https://github.com/dayboard00/Dayboard-releases/releases/download/v0.2.9-test/Dayboard-0.2.9-test.apk",
-  "notes": "캘린더 연동, 반복 요일 정리, 완료 후 이월 종료, 날짜 슬라이드 개선"
+  "versionName": "0.2.10",
+  "versionCode": 15,
+  "size": 2244402,
+  "sha256": "f9a6132c8215a7bac661a71086469ca724631ee48d93d3da510b107738e53cf5",
+  "downloadUrl": "https://github.com/dayboard00/Dayboard-releases/releases/download/v0.2.10-test/Dayboard-0.2.10-test.apk",
+  "notes": "공유 달력별 외부 캘린더 공유, 관리 화면 간소화, 연속 곡률 보완"
 }
