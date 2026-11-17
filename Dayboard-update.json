@@ -1,8 +1,8 @@
 {
-  "versionName": "0.2.14",
-  "versionCode": 19,
-  "size": 2248498,
-  "sha256": "5abf010c666732422c6d9a8a3747600aeef21688e4c43ed6413569c3ac888d61",
-  "downloadUrl": "https://github.com/dayboard00/Dayboard-releases/releases/download/v0.2.14-test/Dayboard-0.2.14-test.apk",
-  "notes": "프리셋 이름 옆 색상 선택, 원본 변경 반영 드롭다운과 안내 배치 개선"
+  "versionName": "0.2.15",
+  "versionCode": 20,
+  "size": 2684572,
+  "sha256": "a0968e0a6963642d6d2c66a0abd6e14d7dc784c3a5dff97e1575030ef3686438",
+  "downloadUrl": "https://github.com/dayboard00/Dayboard-releases/releases/download/v0.2.15-test/Dayboard-0.2.15-test.apk",
+  "notes": "저장 버튼 처리 개선, 일정 본문 눌러 수정, 쉬운 휴대폰 달력 연결 및 저장 위치 선택. Google 직접 연결·Tasks는 추가 설정 후 사용."
 }
