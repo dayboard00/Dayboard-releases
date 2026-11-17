@@ -1,8 +1,8 @@
 {
-  "versionName": "0.2.15",
-  "versionCode": 20,
-  "size": 2684572,
-  "sha256": "a0968e0a6963642d6d2c66a0abd6e14d7dc784c3a5dff97e1575030ef3686438",
-  "downloadUrl": "https://github.com/dayboard00/Dayboard-releases/releases/download/v0.2.15-test/Dayboard-0.2.15-test.apk",
-  "notes": "저장 버튼 처리 개선, 일정 본문 눌러 수정, 쉬운 휴대폰 달력 연결 및 저장 위치 선택. Google 직접 연결·Tasks는 추가 설정 후 사용."
+  "versionName": "0.2.16",
+  "versionCode": 21,
+  "size": 2688668,
+  "sha256": "f2ee41cc88ac9816be4d10be797c4addd8c1b085b0e094a6b8c3bc2a4ce0b880",
+  "downloadUrl": "https://github.com/dayboard00/Dayboard-releases/releases/download/v0.2.16-test/Dayboard-0.2.16-test.apk",
+  "notes": "공유 일정의 내 캘린더 함께 저장, 캘린더 이름·색상 정리, 달력 표시 옵션 통일, 연동 일정 삭제·되돌리기 개선."
 }
