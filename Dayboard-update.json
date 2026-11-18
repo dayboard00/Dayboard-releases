@@ -1,8 +1,8 @@
 {
-  "versionName": "0.2.16",
-  "versionCode": 21,
-  "size": 2688668,
-  "sha256": "f2ee41cc88ac9816be4d10be797c4addd8c1b085b0e094a6b8c3bc2a4ce0b880",
-  "downloadUrl": "https://github.com/dayboard00/Dayboard-releases/releases/download/v0.2.16-test/Dayboard-0.2.16-test.apk",
-  "notes": "공유 일정의 내 캘린더 함께 저장, 캘린더 이름·색상 정리, 달력 표시 옵션 통일, 연동 일정 삭제·되돌리기 개선."
+    "versionName":  "0.2.17",
+    "versionCode":  22,
+    "size":  2692764,
+    "sha256":  "7c1d890c4a5cf49fcabcbbcf973b87f7b33642839fe63481cf6de66b24a151f7",
+    "downloadUrl":  "https://github.com/dayboard00/Dayboard-releases/releases/download/v0.2.17-test/Dayboard-0.2.17-test.apk",
+    "notes":  "Dayboard 테스트 업데이트"
 }
