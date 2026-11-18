@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.2.18",
-    "versionCode":  23,
+    "versionName":  "0.2.19",
+    "versionCode":  24,
     "size":  2696860,
-    "sha256":  "6f639705edca217398a142cfe20c5c2463bb89cb608f9eb700a6a51be5401116",
-    "downloadUrl":  "https://github.com/dayboard00/Dayboard-releases/releases/download/v0.2.18-test/Dayboard-0.2.18-test.apk",
+    "sha256":  "3b784eb868f315f95dfb847e74e116f7617b15a73a2abc586dc3c0d58cbcc1aa",
+    "downloadUrl":  "https://github.com/dayboard00/Dayboard-releases/releases/download/v0.2.19-test/Dayboard-0.2.19-test.apk",
     "notes":  "Dayboard 테스트 업데이트"
 }
